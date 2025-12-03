@@ -1,1 +1,0 @@
-# deltaneutral_backtesting
